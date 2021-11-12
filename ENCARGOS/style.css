@@ -1,0 +1,109 @@
+html, body {
+    margin-top: 100px;
+    align-content: center;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(190, 248, 185)
+ }
+  
+ #caveza{
+ font-family: 'Cormorant Garamond', serif;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+ margin-top: 20px;
+ margin-bottom: 50px;
+ }
+ 
+ h1{
+     font-weight: 700;
+     font-size: 50px;
+     text-align: center;
+     margin-top: 0px;
+     margin-bottom: 0px;
+ }
+ 
+ h2{
+     font-weight: 400;
+     font-size: 22px;
+     text-align: center;
+     margin-top: 5px;
+     margin-bottom: 5px;
+ }
+ 
+ h3{
+     font-weight: 400;
+     font-size: 22px;
+     text-align: center;
+     margin-top: 5px;
+     margin-bottom: 5px;
+ }
+ 
+ h4{
+     font-weight: 400;
+     font-size: 22px;
+     text-align: center;
+     margin-top: 5px;
+     margin-bottom: 5px;
+ }
+
+ h5{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+
+ h6{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+
+ ha{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+
+ he{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+
+ hi{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+
+ ho{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+ #izquierda{
+    width: 40%;
+  }
+  
+  #derecha{
+    width: 40%;
+  }

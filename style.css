@@ -1,22 +1,65 @@
 html, body {
-  margin: 0;
-  padding: 0;
-  
-  text-align: center;
-  color: black;
-  font-family: Arial, sans-serif;
-}
-canvas {
-  display: block;
-  margin: 0 auto;
-}
-
-kbd{
-  display; inline-block;
-  padding: .1ex .7ex;
-  border-radius: 0.5ex;
-  border: 1px solid black;
+    margin-top: 80px;
+    align-content: center;
     text-align: center;
-  color: black;
-  font-family: Arial, sans-serif;
-}
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(190, 248, 185)
+ }
+   
+ 
+ 
+ h1{
+     font-weight: 700;
+     font-size: 70px;
+     text-align: center;
+     margin-top: 0px;
+     margin-bottom: 0px;
+ }
+ 
+ h2{
+     font-weight: 500;
+     font-size: 45px;
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 5px;
+ }
+ 
+ h3{
+     font-weight: 400;
+     font-size: 22px;
+     text-align: center;
+     margin-top: 0px;
+     margin-bottom: 5px;
+ }
+ 
+ h4{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+ }
+
+ h5{
+    font-weight: 300;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+ }
+
+ h6{
+    font-weight: 300;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+ }
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 

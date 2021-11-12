@@ -1,0 +1,32 @@
+html, body {
+  margin-top: 20px;
+  align-content: center;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  background-color: rgb(220, 241, 219)
+}
+canvas {
+  display: block;
+}
+
+
+input[type=range] {
+  width: 100%;
+  
+}
+
+h1{
+  font-weight: 500;
+  font-size: 58px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
